@@ -1,0 +1,29 @@
+[
+  {
+    "id": "tutorial",
+    "title": "Getting Started",
+    "description": "A guided introduction to Knogra — nodes, scenes, AI assistant, and more. Start here.",
+    "tags": ["tutorial", "intro"],
+    "nodeCount": 26,
+    "badge": "Tutorial",
+    "file": "graphs/tutorial.knogra"
+  },
+  {
+    "id": "demo-themes",
+    "title": "Visual Showcase",
+    "description": "A graph exploring Knogra's visual capabilities — themes, background images, and node designs.",
+    "tags": ["demo", "design"],
+    "nodeCount": 18,
+    "badge": "Demo",
+    "file": "graphs/demo-themes.knogra"
+  },
+  {
+    "id": "demo-equations",
+    "title": "Math & Equations",
+    "description": "LaTeX equations inside nodes — from calculus to linear algebra. A living cheat sheet.",
+    "tags": ["demo", "math", "latex"],
+    "nodeCount": 20,
+    "badge": "Demo",
+    "file": "graphs/demo-equations.knogra"
+  }
+]
