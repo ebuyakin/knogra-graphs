@@ -25,5 +25,14 @@
     "nodeCount": 20,
     "badge": "Demo",
     "file": "graphs/demos-equations.knogra"
+  },
+  {
+    "id": "demo-equations",
+    "title": "Math & Equations",
+    "description": "LaTeX equations inside nodes — from calculus to linear algebra. A living cheat sheet.",
+    "tags": ["demo", "math", "latex"],
+    "nodeCount": 20,
+    "badge": "Demo",
+    "file": "graphs/demos-equations.knogra"
   }
 ]
