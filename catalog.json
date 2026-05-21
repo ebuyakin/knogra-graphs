@@ -15,7 +15,7 @@
     "tags": ["demo", "design"],
     "nodeCount": 18,
     "badge": "Demo",
-    "file": "graphs/demo-themes.knogra"
+    "file": "graphs/demos-themes.knogra"
   },
   {
     "id": "demo-equations",
@@ -24,6 +24,6 @@
     "tags": ["demo", "math", "latex"],
     "nodeCount": 20,
     "badge": "Demo",
-    "file": "graphs/demo-equations.knogra"
+    "file": "graphs/demos-equations.knogra"
   }
 ]
