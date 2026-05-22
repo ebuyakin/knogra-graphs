@@ -9,13 +9,13 @@
     "file": "graphs/tutorial.knogra"
   },
   {
-    "id": "demo-themes",
-    "title": "Visual Showcase",
-    "description": "A graph exploring Knogra's visual capabilities — themes, background images, and node designs.",
-    "tags": ["demo", "design"],
-    "nodeCount": 18,
+    "id": "quantum-mechanics",
+    "title": "Quantum mechanics basics",
+    "description": "A graph exploring basic concepts of the quantum mechanics.",
+    "tags": ["demo", "equations"],
+    "nodeCount": 30,
     "badge": "Demo",
-    "file": "graphs/demos-themes.knogra"
+    "file": "graphs/graph-quantum-mechanics-2026-05-22.knogra"
   },
   {
     "id": "demo-equations",
