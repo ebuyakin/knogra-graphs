@@ -18,21 +18,12 @@
     "file": "graphs/graph-quantum-mechanics-2026-05-22.knogra"
   },
   {
-    "id": "demo-equations",
-    "title": "Math & Equations",
-    "description": "LaTeX equations inside nodes — from calculus to linear algebra. A living cheat sheet.",
-    "tags": ["demo", "math", "latex"],
-    "nodeCount": 20,
+    "id": "agentic-ai",
+    "title": "Agentic AI basics",
+    "description": "A graph exploring basic concepts of the agentic ai",
+    "tags": ["demo", "ai agents"],
+    "nodeCount": 30,
     "badge": "Demo",
-    "file": "graphs/demos-equations.knogra"
-  },
-  {
-    "id": "demo-equations",
-    "title": "Math & Equations",
-    "description": "LaTeX equations inside nodes — from calculus to linear algebra. A living cheat sheet.",
-    "tags": ["demo", "math", "latex"],
-    "nodeCount": 20,
-    "badge": "Demo",
-    "file": "graphs/demos-equations.knogra"
+    "file": "graphs/graph-agantic-ai-2026-05-22.knogra"
   }
 ]
