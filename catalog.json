@@ -14,7 +14,6 @@
     "description": "A graph exploring basic concepts of the quantum mechanics.",
     "tags": ["demo", "equations"],
     "nodeCount": 30,
-    "badge": "Demo",
     "file": "graphs/graph-quantum-mechanics-2026-05-22.knogra"
   },
   {
@@ -23,7 +22,6 @@
     "description": "A graph exploring basic concepts of the agentic ai",
     "tags": ["demo", "ai agents"],
     "nodeCount": 30,
-    "badge": "Demo",
     "file": "graphs/graph-agentic-ai-2026-05-22.knogra"
   },
   {
@@ -32,8 +30,7 @@
     "description": "The internet, mapped end to end — from cables, packets, and IP addresses up through DNS, TCP, HTTP, and the browser rendering this page. 600+ concepts you can drill into, scene by scene.",
     "tags": ["demo"],
     "nodeCount": 629,
-    "sceneCount": 404,
-    "badge": "Demo",
+    "badge": "New",
     "file": "graphs/graph-internet.knogra"
   }
 ]
