@@ -43,5 +43,15 @@
     "badge": "New",
     "updated": "2026-07-23",
     "file": "graphs/graph-calculus.knogra"
+  },
+  {
+    "id": "graph-chess",
+    "title": "Chess openings",
+    "description": "The opening tree, move by move — from 1.e4 and 1.d4 down through the Sicilian, the Ruy Lopez, the Queen's Gambit and their sharp sub-variations. Each line branches into the next move, the players who made it famous, and the games that defined it. Walk the theory scene by scene instead of squinting at a wall of notation.",
+    "tags": ["demo"],
+    "nodeCount": 374,
+    "badge": "New",
+    "updated": "2026-07-23",
+    "file": "graphs/graph-chess.knogra"
   }
 ]
