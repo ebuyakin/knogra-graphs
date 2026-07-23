@@ -31,6 +31,7 @@
     "tags": ["demo"],
     "nodeCount": 629,
     "badge": "New",
+    "updated": "2026-07-22",
     "file": "graphs/graph-internet.knogra"
   },
   {
@@ -38,7 +39,7 @@
     "title": "Calculus, End to End",
     "description": "All of first-year calculus on one map — Functions, Limits, Differentiation, Integration, Differential Equations, Numerical Methods — each node carrying its actual formula. Drill in scene by scene instead of drowning in one flat diagram.",
     "tags": ["demo"],
-    "nodeCount": 104,
+    "nodeCount": 118,
     "badge": "New",
     "updated": "2026-07-23",
     "file": "graphs/graph-calculus.knogra"
